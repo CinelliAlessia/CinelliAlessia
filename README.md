@@ -9,9 +9,10 @@
 
 <!-- Statistiche GitHub -->
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CinelliAlessia&theme=catppuccin_latte&show_icons=true&locale=en&layout=compact" alt="CinelliAlessia" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CinelliAlessia&theme=catppuccin_latte&show_icons=true&locale=en&layout=compact" alt="CinelliAlessia" />
   
-  <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=CinelliAlessia&show_icons=true&theme=catppuccin_latte" alt="CinelliAlessia" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=CinelliAlessia&show_icons=true&theme=catppuccin_latte" alt="CinelliAlessia" />
+  <br>
 </p>
 
 <!-- Questo <div> con clear: both assicura che le immagini inizino su una nuova linea -->
