@@ -5,6 +5,7 @@
 
 <h3 align="left">Languages and Tools I am learning to use:</h3>
 
+<!--  --> 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CinelliAlessia&theme=catppuccin_latte&show_icons=true&locale=en&layout=compact" alt="CinelliAlessia" />
 </p>
@@ -46,6 +47,5 @@
 <p align="left">
   <br><br>
   <img src="https://img.shields.io/github/followers/CinelliAlessia?label=Segui&style=social" alt="GitHub Followers"/>
-  <br>
   <img src="https://img.shields.io/github/stars/CinelliAlessia?label=Stelle&style=social" alt="GitHub Stars"/>
 </p>
