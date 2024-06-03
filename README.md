@@ -39,6 +39,7 @@
 
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=CinelliAlessia&show_icons=true&theme=catppuccin_latte)](https://github.com/anuraghazra/github-readme-stats" alt="CinelliAlessia" /></p>
 
-![Follower su GitHub](https://img.shields.io/github/followers/CinelliAlessia?label=Segui&style=social)
-![Stelle su GitHub](https://img.shields.io/github/stars/CinelliAlessia?label=Stelle&style=social)
-
+<p>
+  ![Follower su GitHub](https://img.shields.io/github/followers/CinelliAlessia?label=Segui&style=social)
+  ![Stelle su GitHub](https://img.shields.io/github/stars/CinelliAlessia?label=Stelle&style=social)
+</p>
