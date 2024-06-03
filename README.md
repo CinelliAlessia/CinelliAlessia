@@ -1,4 +1,4 @@
-# Welcome
+# Benvenuti! 🖥️
 
 Here are my stats:
 
@@ -17,3 +17,6 @@ Here are the languages and tools I am learning to use:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&labelColor=transparent)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=transparent)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=transparent)
+
+Visite:
+![Visitor Count](https://komarev.com/ghpvc/?username=CinelliAlessia&color=blue&style=flat-square)
