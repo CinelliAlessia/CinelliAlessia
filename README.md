@@ -40,9 +40,9 @@ Ciao! Sono una studentessa di Ingegneria Informatica. Qui troverai alcune delle 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CinelliAlessia&show_icons=true&locale=en&layout=compact" alt="CinelliAlessia" /></p>
 
-[![Le mie statistiche sui linguaggi GitHub](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CinelliAlessia&theme=tokyonight&card_width=350)](https://github.com/anuraghazra/github-readme-stats)
+[![Le mie statistiche sui linguaggi GitHub](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CinelliAlessia&theme=catppuccin_latte&card_width=350)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Le statistiche di GitHub di Anurag](https://github-readme-stats-sigma-five.vercel.app/api?username=CinelliAlessia&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Le statistiche di GitHub di Anurag](https://github-readme-stats-sigma-five.vercel.app/api?username=CinelliAlessia&show_icons=true&theme=catppuccin_latte)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Follower su GitHub](https://img.shields.io/github/followers/CinelliAlessia?label=Segui&style=social)
 ![Stelle su GitHub](https://img.shields.io/github/stars/CinelliAlessia?label=Stelle&style=social)
