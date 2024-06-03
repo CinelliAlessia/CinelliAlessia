@@ -1,5 +1,5 @@
 <h3 align="left">Benvenuti! 🖥️ 
-  <br> Chi sono: </h3>
+  <br> <br> Chi sono: </h3>
 
 <p align="left"> Ciao! Sono una studentessa di Ingegneria Informatica. Qui troverai alcune delle mie statistiche su GitHub e i linguaggi e strumenti che sto imparando ad usare. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </p>
 
@@ -14,6 +14,8 @@
   <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=CinelliAlessia&show_icons=true&theme=catppuccin_latte)](https://github.com/anuraghazra/github-readme-stats" alt="CinelliAlessia" />
 </p>
 
+<!-- Immagini linguaggi di programmazione -->
+<br>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
