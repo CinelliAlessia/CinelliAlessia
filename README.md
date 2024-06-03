@@ -1,11 +1,8 @@
 # Benvenuti! 🖥️
 
-## Chi sono
+<h3 align="left">Chi sono:</h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-
-Ciao! Sono una studentessa di Ingegneria Informatica. Qui troverai alcune delle mie statistiche su GitHub e i linguaggi e strumenti che sto imparando ad usare.
-
-## Linguaggi e strumenti che sto imparando a usare:
+<p align="left"> Ciao! Sono una studentessa di Ingegneria Informatica. Qui troverai alcune delle mie statistiche su GitHub e i linguaggi e strumenti che sto imparando ad usare. </p>
 
 <h3 align="left">Languages and Tools I am learning to use:</h3>
 <p align="left">
