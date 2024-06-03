@@ -3,8 +3,10 @@
 ![Random Cat](https://cataas.com/cat)
 
 
-Here are my stats:
+Here are my stats:[
+
 ![My GitHub Language Stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CinelliAlessia&theme=tokyonight&card_width=350)](https://github.com/anuraghazra/github-readme-stats)
+]
 ![GitHub Followers](https://img.shields.io/github/followers/CinelliAlessia?label=Follow&style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/CinelliAlessia?label=Stars&style=social)
 
