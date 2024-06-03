@@ -1,16 +1,22 @@
 # Benvenuti! 🖥️
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+
 ![Random Cat](https://cataas.com/cat)
 
+## Chi sono
 
-Here are my stats:[
+Ciao! Sono una studentessa di Ingegneria Informatica con una grande passione per la programmazione e la tecnologia. Qui troverai alcune delle mie statistiche su GitHub e i linguaggi e strumenti che sto imparando ad usare.
 
-![My GitHub Language Stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CinelliAlessia&theme=tokyonight&card_width=350)](https://github.com/anuraghazra/github-readme-stats)
-]
-![GitHub Followers](https://img.shields.io/github/followers/CinelliAlessia?label=Follow&style=social)
-![GitHub Stars](https://img.shields.io/github/stars/CinelliAlessia?label=Stars&style=social)
+## Le mie statistiche:
 
-Here are the languages and tools I am learning to use:
+[![Le mie statistiche sui linguaggi GitHub](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CinelliAlessia&theme=tokyonight&card_width=350)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Le statistiche di GitHub di Anurag](https://github-readme-stats-sigma-five.vercel.app/api?username=CinelliAlessia&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+![Follower su GitHub](https://img.shields.io/github/followers/CinelliAlessia?label=Segui&style=social)
+![Stelle su GitHub](https://img.shields.io/github/stars/CinelliAlessia?label=Stelle&style=social)
+
+## Linguaggi e strumenti che sto imparando a usare:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=transparent)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&labelColor=transparent)
@@ -22,7 +28,6 @@ Here are the languages and tools I am learning to use:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=transparent)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=transparent)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=CinelliAlessia&color=blue&style=flat-square)
+![Contatore dei visitatori](https://komarev.com/ghpvc/?username=CinelliAlessia&color=blue&style=flat-square)
 
-![GitHub Snake Animation](https://github.com/CinelliAlessia/CinelliAlessia/blob/output/github-contribution-grid-snake.svg)
-
+![Animazione del serpente su GitHub](https://github.com/CinelliAlessia/CinelliAlessia/blob/output/github-contribution-grid-snake.svg)
