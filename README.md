@@ -1,10 +1,12 @@
 # Benvenuti! 🖥️
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+![Random Cat](https://cataas.com/cat)
+
 
 Here are my stats:
-
-[![My GitHub Language Stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CinelliAlessia&theme=tokyonight&card_width=350)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=CinelliAlessia&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![My GitHub Language Stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CinelliAlessia&theme=tokyonight&card_width=350)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Followers](https://img.shields.io/github/followers/CinelliAlessia?label=Follow&style=social)
+![GitHub Stars](https://img.shields.io/github/stars/CinelliAlessia?label=Stars&style=social)
 
 Here are the languages and tools I am learning to use:
 
@@ -18,5 +20,7 @@ Here are the languages and tools I am learning to use:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=transparent)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=transparent)
 
-Visite:
 ![Visitor Count](https://komarev.com/ghpvc/?username=CinelliAlessia&color=blue&style=flat-square)
+
+![GitHub Snake Animation](https://github.com/CinelliAlessia/CinelliAlessia/blob/output/github-contribution-grid-snake.svg)
+
