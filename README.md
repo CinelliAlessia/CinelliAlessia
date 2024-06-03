@@ -3,16 +3,7 @@
 ## Chi sono
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-Ciao! Sono una studentessa di Ingegneria Informatica con una grande passione per la programmazione e la tecnologia. Qui troverai alcune delle mie statistiche su GitHub e i linguaggi e strumenti che sto imparando ad usare.
-
-## Le mie statistiche:
-
-[![Le mie statistiche sui linguaggi GitHub](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CinelliAlessia&theme=tokyonight&card_width=350)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Le statistiche di GitHub di Anurag](https://github-readme-stats-sigma-five.vercel.app/api?username=CinelliAlessia&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-![Follower su GitHub](https://img.shields.io/github/followers/CinelliAlessia?label=Segui&style=social)
-![Stelle su GitHub](https://img.shields.io/github/stars/CinelliAlessia?label=Stelle&style=social)
+Ciao! Sono una studentessa di Ingegneria Informatica. Qui troverai alcune delle mie statistiche su GitHub e i linguaggi e strumenti che sto imparando ad usare.
 
 ## Linguaggi e strumenti che sto imparando a usare:
 
@@ -67,3 +58,5 @@ Ciao! Sono una studentessa di Ingegneria Informatica con una grande passione per
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=transparent)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CinelliAlessia&show_icons=true&locale=en&layout=compact" alt="CinelliAlessia" /></p>
+![Follower su GitHub](https://img.shields.io/github/followers/CinelliAlessia?label=Segui&style=social)
+![Stelle su GitHub](https://img.shields.io/github/stars/CinelliAlessia?label=Stelle&style=social)
