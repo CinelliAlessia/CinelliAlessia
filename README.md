@@ -38,9 +38,7 @@ Ciao! Sono una studentessa di Ingegneria Informatica. Qui troverai alcune delle 
   </a>  
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CinelliAlessia&show_icons=true&locale=en&layout=compact" alt="CinelliAlessia" /></p>
-
-[![Le mie statistiche sui linguaggi GitHub](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CinelliAlessia&theme=catppuccin_latte&card_width=350)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CinelliAlessia&theme=catppuccin_latte&show_icons=true&locale=en&layout=compact" alt="CinelliAlessia" /></p>
 
 [![Le statistiche di GitHub di Anurag](https://github-readme-stats-sigma-five.vercel.app/api?username=CinelliAlessia&show_icons=true&theme=catppuccin_latte)](https://github.com/anuraghazra/github-readme-stats)
 
