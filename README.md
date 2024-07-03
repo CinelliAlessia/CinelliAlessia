@@ -8,12 +8,10 @@
 <h3 align="left">Languages and Tools I am learning to use:</h3>
 
 <!-- Statistiche GitHub -->
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CinelliAlessia&theme=catppuccin_latte&show_icons=true&locale=en&layout=compact" alt="CinelliAlessia" />
-  
+<p>  
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=CinelliAlessia&theme=catppuccin_latte&show_icons=true&locale=en&layout=compact" alt="CinelliAlessia" />
 
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=CinelliAlessia&theme=catppuccin_latte&show_icons=true&locale=en&layout=compact" alt="CinelliAlessia" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=CinelliAlessia&theme=catppuccin_latte&show_icons=true&locale=en&layout=compact" alt="CinelliAlessia" />
 
   <br>
 </p>
